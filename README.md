@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Nageh</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Abd El-Mawla</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Flutter+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
@@ -26,14 +26,11 @@
 <h3 align="left">📬 Connect with me</h3>
 
 <p align="center">
-  <a href="mailto:ahmdnajkh71@gmail.com" target="blank">
+  <a href="mailto:hooh3415@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-nageh-0b941a223/" target="blank">
+  <a href="[https://www.linkedin.com/in/ahmed-nageh-0b941a223/](https://www.linkedin.com/in/ahmed-abd-elmawla-a2866123a/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100038174362263" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 </p>
  
