@@ -4,13 +4,11 @@
 </p>
 
 
-- 👋 Hi, I’m **Ahmed Nageh** , **Flutter Developer**
+- 👋 Hi, I’m **Ahmed Abd El-Mawla** , **Flutter Developer**
 
 - 👀 I’m interested in Mobile App Development (Flutter)
 
-- 🌱 I’m currently learning **Flutter Development**
-
-- 📫 How to reach me **ahmdnajkh71@gmail.com**
+- 📫 How to reach me **hooh3415@gmail.com**
 
 ---
 
