@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abd El-Mawla</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Flutter+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Software+QA+Engineer;" />
 </p>
 
 
-- 👋 Hi, I’m **Ahmed Abd El-Mawla** , **Software QA Engineer**
-
-- 👀 I’m interested in Mobile App Development (Flutter)
-
-- 📫 How to reach me **hooh3415@gmail.com**
+- Software QA Tester with hands-on experience in Manual, Exploratory, Functional, and API Testing across web and mobile applications. Skilled in test case design, defect reporting, and database validation using SQL, with practical experience using Jira, Zephyr Essential, and Postman.
 
 ---
 
