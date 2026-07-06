@@ -3,30 +3,48 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Software+QA+Engineer;" />
 </p>
 
-
-- Software QA Tester with hands-on experience in Manual, Exploratory, Functional, and API Testing across web and mobile applications. Skilled in test case design, defect reporting, and database validation using SQL, with practical experience using Jira, Zephyr Essential, and Postman.
-
+  
 ---
 <h3 align="left">Technical skills :</h3>
 
-- Software QA Tester with hands-on experience in Manual, Exploratory, Functional, and API Testing across web and mobile applications. Skilled in test case design, defect reporting, and database validation using SQL, with practical experience using Jira, Zephyr Essential, and Postman.
+- Manual testing (web&mobile)
+ 
+- Test Scenario, Test Case writing
+ 
+- Exploratory testing
+ 
+- Defect Reports
+
+- SQL & Database for testing
+
+- API testing (manual & automation)
+
+- Agile/Scrum methodologies
+
+- Performance testing
+
+<h3 align="left">Tools :</h3>
+
+- Jira
+  
+- Trello
+
+- Zephyr Essential
+ 
+- Jmeter
+
+<h3 align="left">Soft skills:</h3>
 
 
+- Problem Solving
 
+- Analytical Thinking
 
-<h3 align="left">Soft skills :</h3>
+- Working under pressure
 
-- Software QA Tester with hands-on experience in Manual, Exploratory, Functional, and API Testing across web and mobile applications. Skilled in test case design, defect reporting, and database validation using SQL, with practical experience using Jira, Zephyr Essential, and Postman.
+- TeamworkCommunication
 
-
-
-
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
-
-- Software QA Tester with hands-on experience in Manual, Exploratory, Functional, and API Testing across web and mobile applications. Skilled in test case design, defect reporting, and database validation using SQL, with practical experience using Jira, Zephyr Essential, and Postman.
-
+- Self learning 
 
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
