@@ -3,8 +3,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Software+QA+Engineer;" />
 </p>
 
-  
+- Software QA Tester with hands-on experience in Manual, Exploratory, Functional, and API Testing across web and mobile applications. Skilled in test case design, defect reporting, and database validation using SQL, with practical experience using Jira, Zephyr Essential, and Postman.  
 ---
+
+<h3 align="left">Work Experience :</h3>
+
+<h4 align="left"> Freelance QA Tester — uTest (Crowdsourced Testing Platform) (May 2026-Present) : </h4>
+
+- Conducted exploratory testing across 4 web applications and 1 mobile application.
+- Reported reproducible defects with supporting evidence, including browser logs, mobile device logs, and Charles Proxy logs.
+- Submitted 6 approved bug reports.
+   
+---
+
 <h3 align="left">Technical skills :</h3>
 
 - Manual testing (web&mobile)
@@ -52,7 +63,18 @@
 
 - Self learning 
 
+---
 
+<h3 align="left">Projects :</h3>
+
+<h4 align="left"> E-Commerce Website [Figma-Based UI Design] — Manual Testing : </h4>
+
+- Analyzed a high-fidelity Figma design of a complete e-commerce platform to identify testable requirements and define testing scope.
+- Designed and documented 86 structured test cases across eight application modules, including Sign Up, Login, Home Page, Search, Cart, Flash Sales,
+  Product Details Page, and Checkout, covering both positive and negative scenarios.
+   
+
+---
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
