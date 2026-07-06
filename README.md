@@ -33,6 +33,10 @@
  
 - Jmeter
 
+- Postman
+
+- Excel/Google Sheets 
+
 <h3 align="left">Soft skills:</h3>
 
 
@@ -42,7 +46,9 @@
 
 - Working under pressure
 
-- TeamworkCommunication
+- Teamwork
+
+- Communication
 
 - Self learning 
 
