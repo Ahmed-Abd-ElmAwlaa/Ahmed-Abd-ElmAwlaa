@@ -72,7 +72,7 @@
 - Analyzed a high-fidelity Figma design of a complete e-commerce platform to identify testable requirements and define testing scope.
 - Designed and documented 86 structured test cases across eight application modules, including Sign Up, Login, Home Page, Search, Cart, Flash Sales,
   Product Details Page, and Checkout, covering both positive and negative scenarios.
-   
+  
 
 ---
 <h3 align="left">🛠️ Languages and Tools:</h3>
