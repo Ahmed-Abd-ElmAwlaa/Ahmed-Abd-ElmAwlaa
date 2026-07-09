@@ -21,107 +21,6 @@ real-world testing workflows.
 
 ---
 
-# 🚀 QA Tech Stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Manual_Testing-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/API_Testing-FF6B00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Zephyr_Essential-0066ff?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scrum-6A1B9A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
-
----
-
-# ⭐ Featured QA Projects
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🛒 E-Commerce Website Testing
-
-Manual Testing
-
-Jira
-
-Zephyr
-
-Google Sheets
-
-231 Test Cases
-
-<a href="https://github.com/YOUR_USERNAME/ecommerce-manual-testing">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🏨 BookingLite Database Testing
-
-SQL
-
-Database Testing
-
-Trello
-
-Queries Validation
-
-Database Design
-
-<a href="https://github.com/YOUR_USERNAME/bookinglite-database-testing">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="33%" align="center">
-
-### 📬 API Testing Project
-
-Postman
-
-API Testing
-
-Collections
-
-Environment
-
-Automation Basics
-
-<a href="https://github.com/YOUR_USERNAME/api-testing-project">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
----
-
 # 🛠 Tech Stack & Tools
 
 ### 💻 Manual Testing
@@ -180,8 +79,6 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 ## 🛒 E-Commerce Website Testing
 
-<img src="https://github.com/user-attachments/assets/85145a9f-35da-42f5-8239-190c4ae54ec5" width="230"/>
-
 <br><br>
 
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-blue?style=flat-square)
@@ -194,11 +91,9 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 <br>
 
-✅ 231 Test Cases
+✅ +220 Test Cases
 
 ✅ User Side + Admin Dashboard
-
-✅ Bug Reports
 
 ✅ Test Documentation
 
@@ -212,9 +107,7 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 <td width="33%" align="center">
 
-## 🏨 BookingLite Database Testing
-
-<img src="https://placehold.co/230x150/0d1117/ffffff?text=BookingLite"/>
+## 🏨 BookingLite Database 
 
 <br><br>
 
@@ -244,9 +137,7 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 <td width="33%" align="center">
 
-## 📡 API Testing Portfolio
-
-<img src="https://placehold.co/230x150/0d1117/ffffff?text=API+Testing"/>
+## 📡 API Testing
 
 <br><br>
 
@@ -254,20 +145,20 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 ![REST API](https://img.shields.io/badge/REST_API-blue?style=flat-square)
 
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square)
+<br>
+
+✅ Database Design
+
+✅ SQL Queries
+
+✅ Data Validation
+
+✅ Test Documentation
 
 <br>
 
-🚧 Coming Soon
-
-<br>
-
-Professional API Testing Portfolio
-
-<br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Coming_Soon-555555?style=for-the-badge"/>
+<a href="https://github.com/YOUR_USERNAME/bookinglite-database-testing">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
