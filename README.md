@@ -23,45 +23,30 @@ real-world testing workflows.
 
 # 🛠 Tech Stack & Tools
 
-### 💻 Manual Testing
+### 💻 Testing Skills
 <p>
   <img src="https://img.shields.io/badge/Manual_Testing-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Functional_Testing-28A745?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Exploratory_Testing-FF9800?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Test_Case_Design-6F42C1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Bug_Reporting-DC3545?style=for-the-badge"/>
-</p>
-
-### 🔌 API Testing
-
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/API_Testing-0052CC?style=for-the-badge"/>
-</p>
-
-### 🗄 Database Testing
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database_Testing-198754?style=for-the-badge"/>
 </p>
 
-### 📋 Test Management
+### 🔌 Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
+  <img src="https://img.shields.io/badge/Agile-Scrum-2496ED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Zephyr-Essential-0066FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello"/>
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets"/>
 </p>
 
-### 🎨 UI & Collaboration
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agile-Scrum-2496ED?style=for-the-badge"/>
-</p>
 ---
 
 # 🚀 Featured QA Projects
@@ -138,6 +123,7 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 <td width="33%" align="center">
 
 ## 📡 API Testing
+
 
 <br><br>
 
