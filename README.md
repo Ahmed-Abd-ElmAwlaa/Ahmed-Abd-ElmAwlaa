@@ -60,9 +60,9 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center">
 
-## 🛒 E-Commerce Website Testing
+## 🛒 E-Commerce Website
 
 <br><br>
 
@@ -72,47 +72,23 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 ![Zephyr](https://img.shields.io/badge/Zephyr-Essential-0066ff?style=flat-square)
 
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets)
-
-<br>
-
-✅ +220 Test Cases
-
-✅ User Side + Admin Dashboard
-
-✅ Test Documentation
-
-<br>
-
 <a href="https://github.com/YOUR_USERNAME/ecommerce-manual-testing">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
 ## 🏨 BookingLite Database 
 
 <br><br>
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
-
 ![Database Testing](https://img.shields.io/badge/Database_Testing-198754?style=flat-square)
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square)
+
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello)
-
-<br>
-
-✅ Database Design
-
-✅ SQL Queries
-
-✅ Data Validation
-
-✅ Test Documentation
-
-<br>
 
 <a href="https://github.com/YOUR_USERNAME/bookinglite-database-testing">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
@@ -120,28 +96,18 @@ These repositories showcase my hands-on experience in Manual Testing, Database T
 
 </td>
 
-<td width="33%" align="center">
+<td align="center">
 
-## 📡 API Testing
+## 📡 E-Commerce REST API
 
 
 <br><br>
 
+![API Testing](https://img.shields.io/badge/API-Testing-blue?style=for-the-badge)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 
-![REST API](https://img.shields.io/badge/REST_API-blue?style=flat-square)
-
-<br>
-
-✅ Database Design
-
-✅ SQL Queries
-
-✅ Data Validation
-
-✅ Test Documentation
-
-<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 <a href="https://github.com/YOUR_USERNAME/bookinglite-database-testing">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
